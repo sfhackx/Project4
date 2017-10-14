@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Pet Adoption App
 
-You can use the [editor on GitHub](https://github.com/sfhackx/Project4/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Friends of Animals, an animal shelter and adoption service provider needs to build a simple app for people to start adoption process.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Requirements
 
-### Markdown
+1. Visitors are shown pictures of animals one at a time, Tinder style, with simple text description.  They can then either choose to Like - starting the process, or Pass - viewing next one.  The gesture to choose only needs to be simple and intuitive - the use of swipe-left or right to choose is totally optional.  
+2. Visitors can also click the picture to learn more about the animal.
+3. Any animal chosen will create an Intention record in Salesforce, which can be used to start a meet-n-greet appointment to start the adoption process
+4. (Bonus) Make the app available as public web page, so anyone can start viewing animals available for adoption by providing an email address
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Supported Learning
 
-# Header 1
-## Header 2
-### Header 3
+[Salesforce Trailhead](https://trailhead.salesforce.com/) - Search for learning modules on trailhead
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sfhackx/Project4/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
